@@ -29,6 +29,35 @@
         "correctIndex": 0,
         "explanation": "The passage says they come early to haggle before the best crates are gone."
       }
+    },
+    {
+      "id": "2026-07-16",
+      "date": "2026-07-16",
+      "title": "The Long Way Home",
+      "topic": "Daily Life",
+      "editorNote": "An evening detour today — the small verbs of a walk that nobody is timing.",
+      "editorSignature": "Mina",
+      "passage": "The bus sighs at the curb and she lets it go. There is an errand she has been meaning to finish all week, but the light is low and gold, so she decides to linger instead and take the long way home, past the repair shop with its shutters already down. A neighbor is out sweeping his step; they nod at each other and neither stops to talk. Further on, two men argue cheerfully about a football match nobody won. Nothing is settled by the time she reaches her door, and nothing needed to be.",
+      "targetWords": [
+        "errand",
+        "linger",
+        "nod",
+        "argue",
+        "settled"
+      ],
+      "targetPhrases": [
+        "long way home"
+      ],
+      "comprehension": {
+        "prompt": "Why does she let the bus go?",
+        "options": [
+          "The evening is pleasant, and she would rather walk slowly than hurry.",
+          "The bus was too crowded for her to board.",
+          "She was going somewhere the bus does not stop."
+        ],
+        "correctIndex": 0,
+        "explanation": "She lets it pass because the light is low and gold — she would rather linger than finish her errand."
+      }
     }
   ]
 }
