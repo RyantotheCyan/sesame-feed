@@ -31,8 +31,8 @@
       }
     },
     {
-      "id": "2026-07-16",
-      "date": "2026-07-16",
+      "id": "2026-07-15",
+      "date": "2026-07-15",
       "title": "The Long Way Home",
       "topic": "Daily Life",
       "editorNote": "An evening detour today — the small verbs of a walk that nobody is timing.",
@@ -57,6 +57,37 @@
         ],
         "correctIndex": 0,
         "explanation": "She lets it pass because the light is low and gold — she would rather linger than finish her errand."
+      }
+    },
+    {
+      "id": "2026-07-16",
+      "date": "2026-07-16",
+      "title": "The Bakers Who Work While the City Sleeps",
+      "topic": "Work",
+      "editorNote": "Today's edition keeps the hours of the people who make your morning — read it for the verbs of patience.",
+      "editorSignature": "Mina",
+      "passage": "By half past three the ovens are already warm, and the street outside has the particular quiet that lasts only a few hours. Hùng has worked this shift for eleven years. He says he no longer notices the hour; his body simply wakes. The work is repetitive, though he insists it is never dull. Flour, water, salt, time. He lets the dough rest, then folds it, then lets it rest again. Bread cannot be hurried. It can only be attended to, the way you attend to something that is quietly alive. The younger bakers arrive at four and are, for the first month or so, always a little too fast. They want to knead harder, prove quicker, push the oven hotter. Hùng lets them. The bread teaches them what he cannot. Around five the first batch comes out, and the smell reaches the street before the light does. A taxi driver pulls over without being called; he has stopped here for years and has never once been asked what he wants. By six the shelves are full, the shop is loud, and not one customer will think about the eleven hours standing behind the loaf in their hand. Hùng likes it that way. A good loaf, he says, should look effortless — and that is the whole trick of the trade. The labor disappears into the thing it makes.",
+      "targetWords": [
+        "shift",
+        "repetitive",
+        "dull",
+        "dough",
+        "knead",
+        "batch",
+        "effortless"
+      ],
+      "targetPhrases": [
+        "attended to"
+      ],
+      "comprehension": {
+        "prompt": "What does Hùng mean when he says a good loaf should look effortless?",
+        "options": [
+          "The long, patient work behind it should be invisible to the person eating it.",
+          "Baking bread is easier than most people assume it is.",
+          "A loaf should be simple in shape, without decoration."
+        ],
+        "correctIndex": 0,
+        "explanation": "He means the labor disappears into the thing it makes — the customer never sees the eleven hours."
       }
     }
   ]
