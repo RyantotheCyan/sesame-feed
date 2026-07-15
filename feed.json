@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "editorSignature": "LexisLab editors",
+  "entries": [
+    {
+      "id": "2026-06-18",
+      "date": "2026-06-18",
+      "title": "The Morning Market",
+      "topic": "Food",
+      "editorNote": "A short market scene today — listen for the little negotiations that make the verbs useful.",
+      "editorSignature": "Mina",
+      "passage": "At dawn the square fills with the smell of fresh produce. Every vendor arranges a stall piled high with fruit, and the earliest shoppers arrive to haggle before the best crates are gone. A good bargain, they say, is half the fun; the rest is the talk.",
+      "targetWords": [
+        "vendor",
+        "stall",
+        "haggle",
+        "bargain"
+      ],
+      "targetPhrases": [
+        "fresh produce"
+      ],
+      "comprehension": {
+        "prompt": "Why do the earliest shoppers arrive before dawn?",
+        "options": [
+          "To haggle for the best crates before they sell out.",
+          "Because the market closes at noon.",
+          "To avoid paying with cash."
+        ],
+        "correctIndex": 0,
+        "explanation": "The passage says they come early to haggle before the best crates are gone."
+      }
+    }
+  ]
+}
